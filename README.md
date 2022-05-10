@@ -26,6 +26,4 @@ My name is Estevão and I"m learning new technologies
 
 ## &#x1f4c8; GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estevaoluiss)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estevaoluiss&layout=compact)](https://github.com/Estevaoluiss/github-readme-stats)
