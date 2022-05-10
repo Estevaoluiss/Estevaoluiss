@@ -28,4 +28,4 @@ My name is Estevão and I"m learning new technologies
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Estevaoluiss&bg_color=000000&color=4fff67&line=4fff67&point=F9A302&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Estevaoluiss&bg_color=000000&color=ffffff&line=4fff67&point=ffffff&area=true&hide_border=true)  
