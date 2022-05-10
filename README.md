@@ -1,9 +1,3 @@
- <img src="linkedin.com/in/estevão-luiz-de-siqueira-nunes-057b78186" width="25px">
-
-<a href="linkedin.com/in/estevão-luiz-de-siqueira-nunes-057b78186">
-  <img align="left" alt="Estevaoluiss's LinkedIN" width="22px"  />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Estevaoluiss)
 
 My name is Estevão and I"m learning new technologies
@@ -39,4 +33,4 @@ My name is Estevão and I"m learning new technologies
  
  <br />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D)]
