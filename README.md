@@ -1,7 +1,7 @@
-### Hi there <img src="linkedin.com/in/estevão-luiz-de-siqueira-nunes-057b78186" width="25px">
+ <img src="linkedin.com/in/estevão-luiz-de-siqueira-nunes-057b78186" width="25px">
 
 <a href="linkedin.com/in/estevão-luiz-de-siqueira-nunes-057b78186">
-  <img align="left" alt="Estevaoluiss's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Estevaoluiss's LinkedIN" width="22px"  />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Estevaoluiss)
@@ -32,11 +32,11 @@ My name is Estevão and I"m learning new technologies
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Estevaoluiss&show_icons=true&locale=en&layout=compact&theme=radical" alt="Estevaoluiss" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D" alt="Estevaoluiss" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Estevaoluiss&theme=radical" alt="Estevaoluiss" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D" alt="Estevaoluiss" /></p>
  
  <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Estevaoluiss&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
