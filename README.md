@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Estevaoluiss)
 
-My name is Estevão and I"m learning new technologies
+My name is Estevão and I'm learning new technologies
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,8 +25,6 @@ My name is Estevão and I"m learning new technologies
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
 
 ## &#x1f4c8; GitHub Stats
-
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Estevaoluiss&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D)
 
