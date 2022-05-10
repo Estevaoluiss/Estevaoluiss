@@ -26,11 +26,4 @@ My name is Estevão and I"m learning new technologies
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D" alt="Estevaoluiss" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D" alt="Estevaoluiss" /></p>
- 
- <br />
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D)]
