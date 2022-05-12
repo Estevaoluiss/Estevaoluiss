@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Estevaoluiss)
 
-My name is Estevão and I'm learning new technologies 🧬
+My name is Estevão and I'm learning new technologies
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -29,3 +29,7 @@ My name is Estevão and I'm learning new technologies 🧬
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Estevaoluiss&theme=elegant&date_format=j%20M%5B%20Y%5D)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Estevaoluiss&bg_color=000000&color=6495ED&line=FFDEAD&point=FF8C00&area=true&hide_border=true)  
+
+# 🛠 &nbsp;Bootcamp
+
+<img src="https://hermes.digitalinnovation.one/tracks/c157ff82-82fa-4ede-a5e0-56d1b41c385e.png">
