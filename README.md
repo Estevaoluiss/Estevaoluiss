@@ -30,6 +30,6 @@ My name is Estevão and I'm learning new technologies
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Estevaoluiss&bg_color=000000&color=6495ED&line=FFDEAD&point=FF8C00&area=true&hide_border=true)  
 
-# 🛠 &nbsp;Bootcamp
+# 🛠 &nbsp;Bootcamp's
 
-<img src="https://hermes.digitalinnovation.one/tracks/c157ff82-82fa-4ede-a5e0-56d1b41c385e.png" width=100 height:100>
+<a href="https://www.dio.me/en"><img src="https://hermes.digitalinnovation.one/tracks/c157ff82-82fa-4ede-a5e0-56d1b41c385e.png" width=100 height:100></a>
