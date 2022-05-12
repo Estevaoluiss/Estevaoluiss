@@ -32,4 +32,4 @@ My name is Estevão and I'm learning new technologies
 
 # 🛠 &nbsp;Bootcamp
 
-<img src="https://hermes.digitalinnovation.one/tracks/c157ff82-82fa-4ede-a5e0-56d1b41c385e.png">
+<img src="https://hermes.digitalinnovation.one/tracks/c157ff82-82fa-4ede-a5e0-56d1b41c385e.png" width=100 height:100>
