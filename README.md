@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Estevaoluiss)
 
-My name is Estevão and I'm learning new technologies
+My name is Estevão and I'm learning new technologies 🧬
 
 ### 🛠 &nbsp;Tech Stack
 
